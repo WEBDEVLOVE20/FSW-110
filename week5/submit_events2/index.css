@@ -1,0 +1,44 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: black;
+}
+
+header {
+    background-image: url(https://www.globalhealthnow.org/sites/default/files/styles/embedded_image/public/images/2018-07/Airplane-Sunset-iStock-629868310-Web.jpg?itok=RF2DVyux);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    color: black;
+    margin-bottom: 50px;
+    box-shadow: 10px 10px 10px pink;
+}
+
+header > h1 {
+    font-size: 65px;
+    text-shadow: 3px 3px 3px white;
+}
+
+header > h4 {
+    margin-top: 150px;
+}
+
+#forms {
+    font-size: 17px;
+    color: white;
+}
+
+footer {
+    color: white;
+    margin-top: 35px;
+}
+
+button {
+    font-size: 20px;
+    background-color: pink;
+}
